@@ -1,0 +1,8 @@
+{
+    "name": "Web/Skills",
+    "autoload": {
+        "psr-0" : {
+            "Web\\SkillSet" : "src"
+        }
+    }
+}
