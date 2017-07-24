@@ -1,4 +1,4 @@
-derp-dangerzone
+skills-sets
 ===============
 
-Dummy Repository for knpuniversity.com/screencast/question-answer-day
+Dummy Repository for rahulsingnegi.com

@@ -1,5 +1,5 @@
 {
-    "name": "Web/Skills",
+    "name": "rahulnegi/skills",
     "autoload": {
         "psr-0" : {
             "Web\\SkillSet" : "src"
