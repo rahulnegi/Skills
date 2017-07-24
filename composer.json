@@ -1,7 +1,23 @@
 {
     "name": "rahulnegi/skills",
+    "type": "library",
+    "description": "Dummy Testing Lib  PHP 5.3",
+    "keywords": ["dummy","dummy"],
+    "homepage": "https://github.com/rahulnegi/skills",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul Negi",
+            "email": "er.rahulcse2010@gmail.com",
+            "homepage": "http://rahulsingnegi.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
     "autoload": {
-        "psr-0" : {
+        "psr-0": {
             "Web\\SkillSet" : "src"
         }
     }
